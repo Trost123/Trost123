@@ -31,3 +31,4 @@ Also, as a hobby, I also play around with **Web Development**.
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trost123)
+[![My other websites](https://img.shields.io/badge/My_links_hub-823103?style=flat-square&logo=homeassistant&logoColor=white)](https://www.linkedin.com/in/trost123)
